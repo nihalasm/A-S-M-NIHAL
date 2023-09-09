@@ -1,1 +1,0 @@
-print("My namen is A S M Nihal & my ID is 202312345")
